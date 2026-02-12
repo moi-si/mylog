@@ -6,7 +6,7 @@
 // Go standard library. Modifications are licensed under the same BSD-style license.
 // See LICENSE file for full terms.
 
-package log
+package mylog
 
 import (
 	"fmt"
